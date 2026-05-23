@@ -1,3 +1,3 @@
-# Intellistra-Defense
+# defense-erp
 
 Defense ERP — powered by APPNEURAL
